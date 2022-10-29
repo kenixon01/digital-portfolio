@@ -1,10 +1,14 @@
 {
   "files": {
-    "main.css": "/digital-portfolio/static/css/main.ac2138f7.css",
-    "main.js": "/digital-portfolio/static/js/main.79b3e44a.js",
+    "main.css": "/digital-portfolio/static/css/main.43a6e5c5.css",
+    "main.js": "/digital-portfolio/static/js/main.01196e09.js",
     "static/js/787.8c881bfb.chunk.js": "/digital-portfolio/static/js/787.8c881bfb.chunk.js",
+    "static/media/callout-bg.png": "/digital-portfolio/static/media/callout-bg.ab1963ea60fe72671f13.png",
     "static/media/fa-solid-900.svg": "/digital-portfolio/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
     "static/media/fa-brands-400.svg": "/digital-portfolio/static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
+    "static/media/me2.jpg": "/digital-portfolio/static/media/me2.f2cd355bb792ead100ba.jpg",
+    "static/media/me.jpg": "/digital-portfolio/static/media/me.b8c34bd615e795799c1e.jpg",
+    "static/media/99.jpg": "/digital-portfolio/static/media/99.107925074938faad66e7.jpg",
     "static/media/fa-solid-900.eot": "/digital-portfolio/static/media/fa-solid-900.9bbb245e67a133f6e486.eot",
     "static/media/fa-solid-900.ttf": "/digital-portfolio/static/media/fa-solid-900.be9ee23c0c6390141475.ttf",
     "static/media/fa-regular-400.svg": "/digital-portfolio/static/media/fa-regular-400.4689f52cc96215721344.svg",
@@ -16,15 +20,16 @@
     "static/media/fa-brands-400.woff2": "/digital-portfolio/static/media/fa-brands-400.d878b0a6a1144760244f.woff2",
     "static/media/fa-regular-400.eot": "/digital-portfolio/static/media/fa-regular-400.77206a6bb316fa0aded5.eot",
     "static/media/fa-regular-400.ttf": "/digital-portfolio/static/media/fa-regular-400.491974d108fe4002b2aa.ttf",
+    "static/media/KENResume.docx": "/digital-portfolio/static/media/KENResume.646c31465c22c12df6ae.docx",
     "static/media/fa-regular-400.woff": "/digital-portfolio/static/media/fa-regular-400.bb58e57c48a3e911f15f.woff",
     "static/media/fa-regular-400.woff2": "/digital-portfolio/static/media/fa-regular-400.7a3337626410ca2f4071.woff2",
     "index.html": "/digital-portfolio/index.html",
-    "main.ac2138f7.css.map": "/digital-portfolio/static/css/main.ac2138f7.css.map",
-    "main.79b3e44a.js.map": "/digital-portfolio/static/js/main.79b3e44a.js.map",
+    "main.43a6e5c5.css.map": "/digital-portfolio/static/css/main.43a6e5c5.css.map",
+    "main.01196e09.js.map": "/digital-portfolio/static/js/main.01196e09.js.map",
     "787.8c881bfb.chunk.js.map": "/digital-portfolio/static/js/787.8c881bfb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac2138f7.css",
-    "static/js/main.79b3e44a.js"
+    "static/css/main.43a6e5c5.css",
+    "static/js/main.01196e09.js"
   ]
 }
